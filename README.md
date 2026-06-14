@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 Pranali Ravindra Sawant - Portfolio
 
 A modern AI/ML Engineer portfolio built using React, TypeScript, Tailwind CSS, Vite, and Framer Motion.
