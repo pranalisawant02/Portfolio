@@ -26,8 +26,12 @@ function MagneticResumeBtn() {
       className="hidden md:block"
     >
       <a
+<<<<<<< HEAD
         href={`${import.meta.env.BASE_URL}resume.pdf`}
         download="Pranali_Ravindra_Sawant_Resume.pdf"
+=======
+        href="#"
+>>>>>>> e4952068cb294a892241dca6cecbbeb4ba2ae0e4
         className="btn-glass px-5 py-2 rounded-full text-[13px] font-medium flex items-center gap-2"
       >
         <FileText size={13} />
@@ -170,8 +174,12 @@ export default function Navbar() {
                 </motion.a>
               ))}
               <motion.a
+<<<<<<< HEAD
                 href={`${import.meta.env.BASE_URL}resume.pdf`}
                 download="Pranali_Ravindra_Sawant_Resume.pdf"
+=======
+                href="#"
+>>>>>>> e4952068cb294a892241dca6cecbbeb4ba2ae0e4
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 exit={{ opacity: 0, y: 20 }}

@@ -267,8 +267,12 @@ export default function Hero() {
                 <ExternalLink size={14} />
               </motion.a>
               <motion.a
+<<<<<<< HEAD
                 href={`${import.meta.env.BASE_URL}resume.pdf`}
                 download="Pranali_Ravindra_Sawant_Resume.pdf"
+=======
+                href="#"
+>>>>>>> e4952068cb294a892241dca6cecbbeb4ba2ae0e4
                 className="btn-glass px-7 py-3 rounded-full text-sm flex items-center gap-2"
                 whileHover={{ scale: 1.04, y: -2 }}
                 whileTap={{ scale: 0.97 }}
