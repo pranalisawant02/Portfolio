@@ -1,19 +1,16 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "pranali-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://pranalisawant02.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-<<<<<<< HEAD
     "typecheck": "tsc --noEmit -p tsconfig.app.json",
     "deploy": "gh-pages -d dist"
-=======
-    "typecheck": "tsc --noEmit -p tsconfig.app.json"
->>>>>>> e4952068cb294a892241dca6cecbbeb4ba2ae0e4
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
@@ -31,21 +28,12 @@
     "eslint": "^9.9.1",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.11",
-<<<<<<< HEAD
     "gh-pages": "^6.3.0",
-=======
->>>>>>> e4952068cb294a892241dca6cecbbeb4ba2ae0e4
     "globals": "^15.9.0",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.3.0",
-<<<<<<< HEAD
-    "vite": "^5.4.2"
-  },
-  "homepage": "https://pranalisawant02.github.io/Portfolio"
-=======
     "vite": "^5.4.21"
   }
->>>>>>> e4952068cb294a892241dca6cecbbeb4ba2ae0e4
 }
